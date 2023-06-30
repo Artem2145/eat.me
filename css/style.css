@@ -77,13 +77,13 @@ body {
     display: inline-block;
     width: 30px;
     height: 30px;
-    background-image: url(../img/address.png);
+    background-image: url(img/address.png);
     transform: translateY(-50%);
 
 }
 
 .connection a:before {
-    background-image: url(../img/phone.png);
+    background-image: url(img/phone.png);
 
 }
 
